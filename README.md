@@ -23,11 +23,11 @@ My name is Lainlnya. I'm a junior software developer in Korea.
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java)
   ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=C)
   
-##📖 What I'm learning these days / improving
+## 📖 What I'm learning these days / improving
   ![Springboot](https://img.shields.io/badge/Springboot-black?style=flat-square&logo=Spring-boot)
   ![Gradle](https://img.shields.io/badge/Gradle-012F38?style=flat-square&logo=Gradle)
   
-##🪄 What I'm interested in
+## 🪄 What I'm interested in
   ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=node.js)
   ![Express.js](https://img.shields.io/badge/Express-black?style=flat-square&logo=Express)
   ![Next.js](https://img.shields.io/badge/NextJs-black?style=flat-square&logo=Next.js)
