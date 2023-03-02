@@ -1,9 +1,12 @@
-# Hello, Nice to meet you 📸 
+<div align="center">
+  
+# Hello, I'm Lainlnya 📸 
+  I LOVE 🌏Travel 🏋️‍♀️Exercise 📝Planning ✏️Writing&Books \
+  \
+ <img src="https://user-images.githubusercontent.com/93235981/222385945-33b99cad-7d01-4a00-b65c-23761ce859e7.jpeg" width="300" height="300"/>
 
-My name is Lainlnya. I'm a junior software developer in Korea.
 
-## 📌 Skills
-### Platforms & Languages
+## ✨Platforms & Languages✨
   ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1F?style=flat-square&logo=Javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-60DAFB?style=flat-square&logo=React&logoColor=white)
   ![Jquery](https://img.shields.io/badge/jquery-1166A9?style=flat-square&logo=jquery)
@@ -17,7 +20,7 @@ My name is Lainlnya. I'm a junior software developer in Korea.
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   ![MySQL](https://img.shields.io/badge/-MySQL-26445B?style=flat-square&logo=mysql&logoColor=white)
   
-### Tools
+## ✨Tools✨
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=white)
@@ -26,7 +29,7 @@ My name is Lainlnya. I'm a junior software developer in Korea.
   ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1F?style=flat-square&logo=Javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-60DAFB?style=flat-square&logo=React&logoColor=white)
   
-  
-## 💌 Github stats
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lainlnya&show_icons=true&count_private=true&theme=aura_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lainlnya&layout=compact&count_private=true&theme=aura_dark" />
+  
+</div>
