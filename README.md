@@ -30,6 +30,6 @@
   ![React](https://img.shields.io/badge/React-60DAFB?style=flat-square&logo=React&logoColor=white)
   
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lainlnya&show_icons=true&count_private=true&theme=aura_dark" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lainlnya&layout=compact&count_private=true&theme=aura_dark" />
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lainlnya&layout=compact&count_private=true&theme=aura_dark" />
   
 </div>
