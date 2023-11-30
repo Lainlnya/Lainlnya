@@ -30,7 +30,7 @@
   ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=white)
 
   
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lainlnya&show_icons=true&count_private=true&theme=aura_dark" />
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lainlnya&layout=compact&count_private=true&theme=aura_dark" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lainlnya&show_icons=true&count_private=true&theme=aura_dark" width="400" />
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lainlnya&layout=compact&count_private=true&theme=aura_dark" width="400" />
   
 </div>
