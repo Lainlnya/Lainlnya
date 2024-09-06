@@ -3,9 +3,6 @@
 # Hello, I'm Lainlnya 📸 
   I LOVE 🌏Travel 🏋️‍♀️Exercise 📝Planning ✏️Writing&Books \
   This is my homepage ❤️‍🔥 \
-  http://chatwithyrmei.site \
-  \
- <img src="https://user-images.githubusercontent.com/93235981/222385945-33b99cad-7d01-4a00-b65c-23761ce859e7.jpeg" width="300" height="300"/>
 
 
 ## ✨ STRONG ✨
