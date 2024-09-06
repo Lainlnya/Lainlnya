@@ -2,8 +2,6 @@
   
 # Hello, I'm Lainlnya 📸 
   I LOVE 🌏Travel 🏋️‍♀️Exercise 📝Planning ✏️Writing&Books \
-  This is my homepage ❤️‍🔥 \
-
 
 ## ✨ STRONG ✨
   ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1F?style=flat-square&logo=Javascript&logoColor=black)
