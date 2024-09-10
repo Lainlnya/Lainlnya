@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hello, I'm Lainlnya 📸 
-  I LOVE 🌏Travel 🏋️‍♀️Exercise 📝Planning ✏️Writing&Books \
+  I LOVE 🌏Travel 🏋️‍♀️Exercise 📝Planning ✏️Writing&Books
 
 ## ✨ STRONG ✨
   ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1F?style=flat-square&logo=Javascript&logoColor=black)
